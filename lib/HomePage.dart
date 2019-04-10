@@ -69,10 +69,9 @@ class _HomeState extends State<Home> {
         ),
       ),//end drawer
 
-        
+
       body: new ListView(
         children: <Widget>[
-
           new Container(
             margin: EdgeInsets.all(10.0),
             height: 250.0,
