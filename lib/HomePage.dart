@@ -67,7 +67,7 @@ class _HomeState extends State<Home> {
           ],
         ),
       ),//end drawer
-        
+
       body: new ListView(
         children: <Widget>[
           new Container(
@@ -115,7 +115,6 @@ class _HomeState extends State<Home> {
                     ),
                   ),
                 ),
-
                 new Container(
                   child: new Card(
                     elevation: 10.0,
