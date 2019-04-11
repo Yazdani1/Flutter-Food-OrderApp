@@ -38,7 +38,6 @@ class _HomeState extends State<Home> {
                 color: Colors.purple
               ),
             ),
-            
             new ListTile(
               title: new Text("Burger"),
               leading: new Icon(Icons.title,color: Colors.deepOrange,size: 22.0,),
